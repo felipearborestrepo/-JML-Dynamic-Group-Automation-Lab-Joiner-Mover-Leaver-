@@ -144,8 +144,6 @@ No manual provisioning was required.
 
 ![Image 2-3-26 at 23 10 (1)](https://github.com/user-attachments/assets/b1b67cca-e4f2-4629-9420-3552c93381af)
 
-![Image 2-3-26 at 23 10 (1)](https://github.com/user-attachments/assets/82f22875-5302-4cc1-8e76-cca81c5a20c3)
-
 ---
 
 ## 🔁 Mover Scenario — HR → Finance
