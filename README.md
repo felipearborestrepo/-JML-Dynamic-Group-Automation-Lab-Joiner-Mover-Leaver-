@@ -66,7 +66,7 @@ After a short time, Entra automatically populated users into the correct groups 
 
 ![Image 2-3-26 at 22 39](https://github.com/user-attachments/assets/ca995f79-9a2b-47a6-90a7-22b5c164d07c)
 
-![Image 2-3-26 at 22 39](https://github.com/user-attachments/assets/fd44e23d-2719-4d26-8d3b-46242652c251)
+![Image 2-3-26 at 22 39](https://github.com/user-attachments/assets/332b08de-c9c1-4f48-b5b7-c23b4b84088a)
 
 ---
 
